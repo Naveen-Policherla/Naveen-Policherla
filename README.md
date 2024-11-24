@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**Naveen-Policherla/Naveen-Policherla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Naveen Policherla**, a passionate **Data Research Analyst** at Morningstar with **2.3 years of experience** in data analysis. I specialize in leveraging tools to transform raw data into actionable insights that drive smarter decision-making.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **Excel**
+- **Power BI**
+- **SQL**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m deeply curious about uncovering patterns in data and constantly learning new technologies to enhance my analytical approach. I thrive in dynamic environments, where I can use my technical skills to tackle challenges and contribute to innovative projects.
+
+---
+
+### 🌟 Let’s Connect!
+- **LinkedIn**: [linkedin.com/in/naveenpolicherla](https://linkedin.com/in/naveenpolicherla)
+- **Email**: naveen.policherla335@gmail.com
+- **Portfolio**:
+
+🚀 **Let’s exchange ideas, share knowledge, and explore exciting opportunities in the world of data!**

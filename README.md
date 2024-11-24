@@ -13,7 +13,7 @@ I’m deeply curious about uncovering patterns in data and constantly learning n
 ---
 
 ### 🌟 Let’s Connect!
-- **LinkedIn**: (https://linkedin.com/in/naveenpolicherla)
+- **LinkedIn**: https://linkedin.com/in/naveenpolicherla
 - **Email**: naveen.policherla335@gmail.com
 - **Portfolio**:
 

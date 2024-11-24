@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-I’m **Naveen Policherla**, a passionate **Data Research Analyst** at Morningstar with **2.3 years of experience** in data analysis. I specialize in leveraging tools to transform raw data into actionable insights that drive smarter decision-making.
+I’m **Naveen Policherla**, a passionate **Data Research Analyst** at Morningstar with **2.3 years of experience** in data analysis. I specialize in leveraging tools to transform raw data into actionable insights that drive business decisions.
 
 ## 🔧 Technical Skills
 - **Excel**
